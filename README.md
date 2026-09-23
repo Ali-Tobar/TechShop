@@ -6,8 +6,8 @@ A modern and responsive e-commerce web interface for an electronic gadgets store
 
 ## 🔗 Live Demo & Links
 
-- **Live Demo:** [View Live Site](https://ali-tobar.github.io/tech-shop/)
-- **Repository:** [GitHub Repository](https://github.com/Ali-Tobar/tech-shop)
+- **Live Demo:** [View Live Site](https://ali-tobar.github.io/TechShop/)
+- **Repository:** [GitHub Repository](https://github.com/Ali-Tobar/TechShop)
 
 ---
 
