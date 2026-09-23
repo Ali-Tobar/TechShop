@@ -1,4 +1,6 @@
-# TechShop — Electronics E-Commerce Store UI
+# TechShop — Frontend Prototype
+
+A static **Interactive UI Prototype** for an electronics-store landing page. It does not include a backend, authentication, checkout, or payment processing. — Electronics E-Commerce Store UI
 
 A modern and responsive e-commerce web interface for an electronic gadgets store, built using semantic HTML5, custom responsive CSS3, and interactive Vanilla JavaScript.
 
